@@ -1,0 +1,10 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+<br>
+
+## `fdasrvf`
+
+I'm lead author of the `fdasrvf` package ([CRAN](https://cran.r-project.org/web/packages/fdasrvf/index.html); [GitHub](https://github.com/jdtuck/fdasrvf_R)). 

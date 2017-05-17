@@ -1,0 +1,21 @@
+name: "J. Derek Tucker"
+output_dir: "."
+navbar:
+  title: "J. Derek Tucker"
+  right:
+    - text: "Research"
+      href: research.html
+    - text: "Papers"
+      href: papers.html
+    - text: "Software"
+      href: software.html
+    - icon: fa-envelope fa-lg
+      href: mailto:jdtuck@sandia.gov
+    - icon: fa-github fa-lg
+      href: http://github.com/jdtuck/
+output:
+  html_document:
+    theme: flatly
+    include:
+      after_body: footer.html
+    css: styles.css

@@ -1,0 +1,32 @@
+---
+title: "J. Derek Tucker"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+### Principal Member of Technical Staff, Sandia National Laboratories
+
+<br><img src="images/me.jpg" alt="derek" style="border:10px solid"><br>
+
+I recently obtained my Ph.D. in Statistics from [Florida State University](http://www.fsu.edu/). I received the B.S. and M.S. degrees from [Colorado State University](https://www.colostate.edu/), Fort Collins, in 2007 and 2009, respectively, both in electrical engineering, with an emphasis on statistical signal processing. My dissertation was advised by [Anuj Srivastava](http://ani.stat.fsu.edu/~anuj/) and [Wei Wu](http://ani.stat.fsu.edu/~wwu/) and focused modeling of unaligned functional data. Currently, I am Principal Member of the Technical Staff at Sandia National Laboratories in Albuquerque, NM. Recently, I received the Director of National Intelligence Team Award for his contributions to the Signal Location in Complex Environments (SLiCE) team.
+
+My main interest lies in the area of statistical image understanding with a focus on object classification. My other research interests include digital signal/image processing, target detection, classification, feature extraction methods, and statistical learning methods.
+
+<br>
+
+#### Curriculum Vitae
+
+My full CV is availble [here](Docs/JDT_CV.pdf).
+
+<br>
+
+#### Contact Information
+
+J. Derek Tucker			
+[Statistical Sciences](http://www.sandia.gov/statistics/)  
+[Sandia National Laboratories](http://www.sandia.gov/)  
+PO Box 5800 MS 1202
+Albuquerque, NM 87185
+
+Email: [jdtuck@sandia.gov](mailto:jdtuck@sandia.gov)  
+Phone: 505-284-8415

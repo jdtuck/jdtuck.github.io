@@ -1,0 +1,19 @@
+---
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+<br>
+<font size="5">[Google Scholar Page](https://scholar.google.com/citations?user=1jdvTZwAAAAJ&hl=en)</font> 
+<br>
+
+
+## 2017
+
+
+
