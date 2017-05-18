@@ -49,7 +49,7 @@ T. G-Michael, B. Marchand, **J. D. Tucker**, D. D. Sternlicht, and T. M. Marston
 ## 2011
 **J. D. Tucker** and N. Klausner, "Compressive Sensing for Gauss-Gauss Detection,'' *Proc. of IEEE SMC 2011 Conference*, pp. 3335-3340, Oct. 2011. [PDF](Papers/SMC11.pdf)
 
-J. C. Isaacs and *J. D. Tucker*, "Diffusion features for target specific recognition with synthetic aperture sonar raw signals and acoustic color," *Computer Vision and Pattern Recognition Workshops (CVPRW), 2011 IEEE Computer Society Conference on*, pp.27-32, 20-25 June 2011. [PDF](Papers/CVPR11.pdf)
+J. C. Isaacs and **J. D. Tucker**, "Diffusion features for target specific recognition with synthetic aperture sonar raw signals and acoustic color," *Computer Vision and Pattern Recognition Workshops (CVPRW), 2011 IEEE Computer Society Conference on*, pp.27-32, 20-25 June 2011. [PDF](Papers/CVPR11.pdf)
 
 **J. D. Tucker** and A. Srivastava,"Statistical analysis and classification of acoustic color functions,'' *Proc SPIE*, vol. 8017, pp. O1-O10, April 2011. [PDF](Papers/SPIE11.pdf)
 
