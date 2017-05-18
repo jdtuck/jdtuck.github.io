@@ -12,8 +12,86 @@ output:
 <font size="5">[Google Scholar Page](https://scholar.google.com/citations?user=1jdvTZwAAAAJ&hl=en)</font> 
 <br>
 
-
 ## 2017
+**J. D. Tucker**, W. Wu, and A. Srivastava, "Elastic Functional Logistic Regression with Application to Physiological Signal Classification," *Electronic Journal of Statistics*, in revision, 2017.
 
+## 2016
+J. Ramirez, M. Orini, **J. D. Tucker**, P. Laguna, and E. Pueyo, "Variability of Ventricular Repolarization Dispersion Quantified by Time-Warping the Morphology of the T-waves," *IEEE Transactions on Biomedical Engineering*, accepted, 2016 [PDF](Papers/TBME_Ramirez.pdf)
 
+D. Bryner, F. Huffer, M. M. Rosenthal, **J. D. Tucker**, and A. Srivastava, "Linear Minelayer Trajectory Estimation Using Cluttered Point Cloud Data," *Computational Statistics and Data Analysis*, vol. 102, pp. 1-22, October 2016 [PDF](Papers/darshan_csda_2016.pdf)
 
+J. Ramirez, M. Orini, **J. D. Tucker**, P. Laguna, and E. Pueyo, "An Index for T‐wave Pointwise Amplitude Variability Quantification,'' *Proc CinC (Mortara Winner)*, September 2016. [PDF](Papers/CINC16.pdf)
+
+**J. D. Tucker**, "Functional Statistical Process Control using Elastic Methods,'' *Proc JSM*, August 2016. [PDF](Papers/JSM16.pdf)
+
+D. Bryner, F. Huffer, A. Srivastava, and **J. D. Tucker**, "Underwater Mine Detection In Clutter Data Using Spatial Point Process Models," *IEEE Journal of Oceanic Engineering*, vol 41, no. 3. pp 670-681, 2016 [PDF](Papers/JOE-07398189.pdf)
+
+T. G-Michael, B. Marchand, **J. D. Tucker**, D. D. Sternlicht, T. M. Marston, and M. R. Azimi-Sadjadi, "Image-based Automated Change Detection for Synthetic Aperture Sonar," *IEEE Journal of Oceanic Engineering*, vol 41, no. 3. pp 592-612, 2016. [PDF](Papers/JOE-07323881.pdf)
+
+T. G-Michael, **J. D. Tucker**, and R. R. Roberts, "Statistically Normalized Coherent Change Detection for Synthetic Aperture Sonar Imagery," *Proc SPIE*, April 2016. [PDF](Papers/SPIE16.pdf)
+
+## 2014
+**J. D. Tucker**, W. Wu, and A. Srivastava, "Phase-Amplitude Separation of Proteomics Data Using Extended Fisher-Rao Metric," *Electronic Journal of Statistics*, vol 8, no. 2. pp 1724-1733, 2014. [[PDF](Papers/euclid.ejs.1414588155.pdf) | [Code](https://cran.r-project.org/web/packages/fdasrvf/index.html)]
+
+T. G-Michael, B. Marchand, **J. D. Tucker**, D. D. Sternlicht, and T. M. Marston,"Automated Change Detection for Synthetic Aperture Sonar," *Proc SPIE*, May 2014. [PDF](Papers/spie14.pdf)
+
+**J. D. Tucker**, W. Wu, and A. Srivastava, "Analysis of signals under compositional noise with applications to SONAR data," *IEEE Journal of Oceanic Engineering*, vol 29, no. 2. pp 318-330, Apr 2014. [[PDF](Papers/IEEEJOE_AC.pdf) | [Code](https://cran.r-project.org/web/packages/fdasrvf/index.html)]
+
+## 2013
+**J. D. Tucker**, W. Wu, and A. Srivastava, "Generative Models for Function Data using Phase and Amplitude Separation," *Computational Statistics and Data Analysis*, vol. 61, pp. 50-66, May 2013. [[PDF](Papers/CSDA_PCA_12.pdf)
+| [R](https://cran.r-project.org/web/packages/fdasrvf/index.html)
+| [MATLAB](https://github.com/jdtuck/fdasrvf_MATLAB)
+| [Python](https://github.com/jdtuck/fdasrsf_python)
+| [Julia](https://github.com/jdtuck/ElasticFDA.jl)]
+
+## 2012
+**J. D. Tucker**, W. Wu, and A. Srivastava, "Analysis of Signals Under Compositional Noise with Application to SONAR Data," *Proc. of MTS/IEEE Oceans 2012 Conference*, pp. 1-6, Oct. 2012. [PDF](Papers/Oceans12.pdf)
+
+## 2011
+**J. D. Tucker** and N. Klausner, "Compressive Sensing for Gauss-Gauss Detection,'' *Proc. of IEEE SMC 2011 Conference*, pp. 3335-3340, Oct. 2011. [PDF](Papers/SMC11.pdf)
+
+J. C. Isaacs and *J. D. Tucker*, "Diffusion features for target specific recognition with synthetic aperture sonar raw signals and acoustic color," *Computer Vision and Pattern Recognition Workshops (CVPRW), 2011 IEEE Computer Society Conference on*, pp.27-32, 20-25 June 2011. [PDF](Papers/CVPR11.pdf)
+
+**J. D. Tucker** and A. Srivastava,"Statistical analysis and classification of acoustic color functions,'' *Proc SPIE*, vol. 8017, pp. O1-O10, April 2011. [PDF](Papers/SPIE11.pdf)
+
+**J. D. Tucker** and M. R. Azimi-Sadjadi, "Coherence-based underwater target detection from multiple sonar platforms," *IEEE Journal of Oceanic Engineering*, vol. 36, no. 1, pp. 37-51, Jan. 2011. [PDF](Papers/JOE11.pdf)
+
+J. C. Isaacs and **J. D. Tucker**, "Signal diffusion features for automatic target recognition in synthetic aperture sonar," *Proc of IEEE DSP/SPE 2011 Workshop*, pp.461-465, Jan. 2011. [PDF](Papers/DSPE11-2.pdf)
+
+**J. D. Tucker**, J. T. Cobb, and M. R. Azimi-Sadjadi, "Generalized likelihood ratio test for finite mixture model of K-distributed random variables" *Proc of IEEE DSP/SPE 2011 Workshop*, pp. 443-448, Jan. 2011. [PDF](Papers/DSPE11.pdf)
+
+## 2010
+T. G-Michael and **J. D. Tucker**, "Canonical correlation analysis for coherent change detection in synthetic aperture sonar imagery," *Proc of IEEE SAR/SAS 2010 Conference*, vol. 32, no. 4, pp. 117-122, Sep. 2010. [PDF](Papers/CCA_SAS-CCD.pdf)
+
+N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Multi-sonar target detection using multi-channel coherence analysis," *Proc. of MTS/IEEE Oceans 2010 Conference*, pp. 1-7, Sept. 2010. [PDF](Papers/Oecans10.pdf)
+
+**J. D. Tucker** and M. R. Azimi-Sadjadi,"Neyman pearson detection of K-distributed random variables," *Proc SPIE*, vol. 7664, pp. Q1-Q12, April 2010. [PDF](Papers/SPIE10.pdf)
+
+## 2009
+M. Kabatek, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "An underwater target detection system for electro-optical imagery data,'' *Proc. of MTS/IEEE Oceans 2009 Conference*, pp. 1–8, October 2009. [PDF](Papers/Oceans09-EO.pdf)
+
+N. Klausner, **J. D. Tucker**, and M. R. Azimi-Sadjadi, "Multi-platform target detection using multi-channel coherence analysis and robustness to the effects of disparity,'' *Proc. of MTS/IEEE Oceans 2009 Conference*, pp. 1–7, October 2009. [PDF](Papers/Oceans09.pdf)
+
+N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detection from multi-platform sonar imagery using multi-channel coherence analysis,'' *Proc. of IEEE SMC 2009 Conference*, pp. 2728–2733, 2009. [PDF](Papers/SMC09.pdf)
+
+## 2008
+**J. D. Tucker** and M. R. Azimi-Sadjadi, "Coherence-based underwater target detection and classification for side-scan sonar imagery," *Sea Technology Magazine*, vol. 12, pp. 10-14, December 2008. [PDF](Papers/seatechnology08.pdf)
+
+**J. D. Tucker**, N. Klausner, M. R. Azimi-Sadjadi, "Target detection in m-disparate sonar platforms using multichannel Hypothesis Testing," *Proc. IEEE/MTS Oceans 2008*, pp. 1-7, September 2008. [PDF](Papers/oceans08.pdf)
+
+**J. D. Tucker**, M. R. Azimi-Sadjadi, "Target detection from dual disparate sonar platforms using canonical correlations," *Proc. SPIE*, vol. 6553, pp. 65530U– 1–65520U–8, March 2008. [PDF](Papers/spie08.pdf)
+
+## 2007
+**J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Canonical coordinates for detection and classification of underwater objects from sonar imagery," *Proceedings of IEEE Oceans 2007*, pp. 1-6, June 2007. [PDF](Papers/oceans07.pdf)
+
+**J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Coherent-based method for detection of underwater objects from sonar imagery," *Proc. SPIE*, vol. 6553, pp. 65530U– 1–65520U–8, April 2007. [PDF](Papers/spie07.pdf)
+
+## Invited Talks
+"Doppler Multi-INT Detection and Tracking", *NSWC-PCD Invited Lecture*, October 1, 2015 
+
+"Alignment and Analysis of Proteomics Data using Square Root Slope Function Framework'', *CTW: Statistics of Time Warpings and Phase Variations 2012*, OSU MBI, Nov 7, 2012 [PDF](Presentations/MBI2012_Tucker.pdf)
+
+"Statistical Analysis and Modeling of Elastic Functions'', *Department of Mathematical and Statistical Sciences, University of Alberta*, Aug 23, 2011. (Organizer: Yau Shu Wong) [PDF](Presentations/UA-Function_Warping.pdf)
+
+## Patents
+"Automated Change Detection Technique for Synthetic Aperture Sonar" Filed

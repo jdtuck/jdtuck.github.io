@@ -6,7 +6,7 @@ title: "J. Derek Tucker"
 
 ### Principal Member of Technical Staff, Sandia National Laboratories
 
-<br><img src="images/me.jpg" alt="derek" style="border:10px solid"><br>
+<br><img src="images/me.jpg" alt="derek" style="border:5px solid"><br>
 
 I recently obtained my Ph.D. in Statistics from [Florida State University](http://www.fsu.edu/). I received the B.S. and M.S. degrees from [Colorado State University](https://www.colostate.edu/), Fort Collins, in 2007 and 2009, respectively, both in electrical engineering, with an emphasis on statistical signal processing. My dissertation was advised by [Anuj Srivastava](http://ani.stat.fsu.edu/~anuj/) and [Wei Wu](http://ani.stat.fsu.edu/~wwu/) and focused modeling of unaligned functional data. Currently, I am Principal Member of the Technical Staff at Sandia National Laboratories in Albuquerque, NM. Recently, I received the Director of National Intelligence Team Award for his contributions to the Signal Location in Complex Environments (SLiCE) team.
 
