@@ -11,7 +11,7 @@
 ### Research Interests
 Statistical Image Understanding, Signal Analysis, Target Classification, Detection Theory, Computational Statistics
 
-### Eductaion
+### Education
 **Doctor of Philosophy** in Statistics (2014)		
 *Florida State University, Tallahassee, FL*		
 **Thesis title:** Functional Component Analysis and Regression Using Elastic Methods [PDF](Papers/dissertation.pdf)		
