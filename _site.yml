@@ -9,6 +9,8 @@ navbar:
       href: papers.html
     - text: "Software"
       href: software.html
+    - text: "Resume"
+      href: resume.html
     - icon: fa-envelope fa-lg
       href: mailto:jdtuck@sandia.gov
     - icon: fa-github fa-lg
