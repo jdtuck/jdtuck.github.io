@@ -11,7 +11,7 @@ My current focus is in the area of functional data analysis the focus on the tas
 
 <img src="images/ResearchFigure.jpg" alt="kinematics" style="width:60%; border:0px solid">
 
-[Sandia Statistical Sciences](http://www.sandia.gov/statistics/)
+[Sandia Statistical Sciences](http://www.sandia.gov/statistics/)	
 [FSU Statistical Shape and Modeling Group](http://ssamg.stat.fsu.edu/)
 
 [FDA Datasets](https://github.com/jdtuck/fda_datasets)
