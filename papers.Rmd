@@ -11,6 +11,8 @@ output:
 <font size="5">[Google Scholar Page](https://scholar.google.com/citations?user=1jdvTZwAAAAJ&hl=en)</font> 
 <br>
 
+COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
+
 ## 2017
 **J. D. Tucker**, W. Wu, and A. Srivastava, "Elastic Functional Logistic Regression with Application to Physiological Signal Classification," *Electronic Journal of Statistics*, in revision, 2017.
 
