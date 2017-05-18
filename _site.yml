@@ -15,6 +15,8 @@ navbar:
       href: mailto:jdtuck@sandia.gov
     - icon: fa-github fa-lg
       href: http://github.com/jdtuck/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/derek-tucker-04247818/
 output:
   html_document:
     theme: flatly
