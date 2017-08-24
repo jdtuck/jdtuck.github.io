@@ -18,9 +18,9 @@ COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this
 
 **J. D. Tucker**, W. Wu, and A. Srivastava, "Elastic Functional Logistic Regression with Application to Physiological Signal Classification," *Electronic Journal of Statistics*, in revision, 2017.
 
-## 2016
-J. Ramirez, M. Orini, **J. D. Tucker**, P. Laguna, and E. Pueyo, "Variability of Ventricular Repolarization Dispersion Quantified by Time-Warping the Morphology of the T-waves," *IEEE Transactions on Biomedical Engineering*, accepted, 2016 [PDF](Papers/TBME_Ramirez.pdf)
+J. Ramirez, M. Orini, **J. D. Tucker**, P. Laguna, and E. Pueyo, "Variability of Ventricular Repolarization Dispersion Quantified by Time-Warping the Morphology of the T-waves," *IEEE Transactions on Biomedical Engineering*, vol. 64, no. 7, pp. 1619-1630, 2017. [PDF](Papers/TBME_Ramirez.pdf)
 
+## 2016
 D. Bryner, F. Huffer, M. M. Rosenthal, **J. D. Tucker**, and A. Srivastava, "Linear Minelayer Trajectory Estimation Using Cluttered Point Cloud Data," *Computational Statistics and Data Analysis*, vol. 102, pp. 1-22, October 2016 [PDF](Papers/darshan_csda_2016.pdf)
 
 J. Ramirez, M. Orini, **J. D. Tucker**, P. Laguna, and E. Pueyo, "An Index for T‐wave Pointwise Amplitude Variability Quantification,'' *Proc CinC (Mortara Winner)*, September 2016. [PDF](Papers/CINC16.pdf)
