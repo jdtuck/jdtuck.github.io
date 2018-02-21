@@ -1,5 +1,5 @@
 ---
-title: "J. Derek Tucker - Research"
+pagetitle: "J. Derek Tucker"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css" />

@@ -1,5 +1,4 @@
 ---
-title: "J. Derek Tucker - Software"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
