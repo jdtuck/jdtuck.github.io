@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -67,7 +69,7 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="styles.css" type="text/css" />
+<link rel="stylesheet" href="styles.css" />
 
 </head>
 
@@ -225,18 +227,18 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<div id="principal-member-of-technical-staff-sandia-national-laboratories" class="section level3">
+<section id="principal-member-of-technical-staff-sandia-national-laboratories" class="level3">
 <h3>Principal Member of Technical Staff, Sandia National Laboratories</h3>
 <p><br><img src="images/me.jpg" alt="derek" style="border:5px solid"><br></p>
 <p>I recently obtained my Ph.D. in Statistics from <a href="http://www.fsu.edu/">Florida State University</a>. I received the B.S. and M.S. degrees from <a href="https://www.colostate.edu/">Colorado State University</a>, Fort Collins, in 2007 and 2009, respectively, both in electrical engineering, with an emphasis on statistical signal processing. My dissertation was advised by <a href="http://ani.stat.fsu.edu/~anuj/">Anuj Srivastava</a> and <a href="http://ani.stat.fsu.edu/~wwu/">Wei Wu</a> and focused modeling of unaligned functional data. Currently, I am a Principal Member of the Technical Staff at Sandia National Laboratories in Albuquerque, NM. Recently, I received the Director of National Intelligence Team Award for contributions to the Signal Location in Complex Environments (SLiCE) team.</p>
-<p>My main interest lies in the area of functional data analysis with a focus on geometric methods and unaligned data. My other research interests include statistical image understanding, statistical learning methods, and point procesess.</p>
+<p>My main interest lies in the area of functional data analysis with a focus on geometric methods and unaligned data. My other research interests include statistical image understanding, statistical learning methods, and point processes.</p>
 <p><br></p>
-<div id="curriculum-vitae" class="section level4">
+<section id="curriculum-vitae" class="level4">
 <h4>Curriculum Vitae</h4>
-<p>My full CV is availble <a href="Docs/JDT_CV.pdf">here</a>.</p>
+<p>My full CV is available <a href="Docs/JDT_CV.pdf">here</a>.</p>
 <p><br></p>
-</div>
-<div id="contact-information" class="section level4">
+</section>
+<section id="contact-information" class="level4">
 <h4>Contact Information</h4>
 <p>J. Derek Tucker<br />
 <a href="http://www.sandia.gov/statistics/">Statistical Sciences</a><br />
@@ -245,12 +247,12 @@ PO Box 5800 MS 1202<br />
 Albuquerque, NM 87185</p>
 <p>Email: <a href="mailto:jdtuck@sandia.gov">jdtuck@sandia.gov</a><br />
 Phone: 505-284-8415</p>
-</div>
-</div>
+</section>
+</section>
 
 <br><br>
 <footer>
-    <p class="copyright text-muted" align="center">Copyright &copy; 2017 J. Derek Tucker</p>
+    <p class="copyright text-muted" align="center">Copyright &copy; 2018 J. Derek Tucker</p>
 </footer>
 
 

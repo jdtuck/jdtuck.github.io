@@ -11,7 +11,7 @@
 
 
 
-<title></title>
+<title>resume.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -67,7 +69,7 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="styles.css" type="text/css" />
+<link rel="stylesheet" href="styles.css" />
 
 </head>
 
@@ -225,14 +227,14 @@ $(document).ready(function () {
 
 <p><link rel="stylesheet" href="styles.css" type="text/css" /></p>
 <p><br></p>
-<div id="short-cv" class="section level2">
+<section id="short-cv" class="level2">
 <h2>Short CV</h2>
 <p><a href="Docs/JDT_CV.pdf">Detailed CV</a></p>
-<div id="research-interests" class="section level3">
+<section id="research-interests" class="level3">
 <h3>Research Interests</h3>
 <p>Statistical Image Understanding, Signal Analysis, Target Classification, Detection Theory, Computational Statistics</p>
-</div>
-<div id="education" class="section level3">
+</section>
+<section id="education" class="level3">
 <h3>Education</h3>
 <p><strong>Doctor of Philosophy</strong> in Statistics (2014)<br />
 <em>Florida State University, Tallahassee, FL</em><br />
@@ -246,8 +248,8 @@ $(document).ready(function () {
 <p><strong>Bachelor of Science</strong> in Electrical Engineering (2007)<br />
 <em>Colorado State University, Fort Collins, CO</em><br />
 <strong>Senior project:</strong> Magnetic Spin Wave Detection and Localization</p>
-</div>
-<div id="experience" class="section level3">
+</section>
+<section id="experience" class="level3">
 <h3>Experience</h3>
 <p><strong>Principal Member of Technical Staff</strong> (2017-Present)<br />
 Sandia National Laboratories<br />
@@ -270,16 +272,16 @@ Fort Collins, CO</p>
 <p><strong>Research Assistant</strong> (2006-2009)<br />
 Digital Signal and Image Laboratory<br />
 Colorado State University, Fort Collins, CO</p>
-</div>
-<div id="affiliations" class="section level3">
+</section>
+<section id="affiliations" class="level3">
 <h3>Affiliations</h3>
 <p>IEEE, ASA</p>
-</div>
-</div>
+</section>
+</section>
 
 <br><br>
 <footer>
-    <p class="copyright text-muted" align="center">Copyright &copy; 2017 J. Derek Tucker</p>
+    <p class="copyright text-muted" align="center">Copyright &copy; 2018 J. Derek Tucker</p>
 </footer>
 
 
