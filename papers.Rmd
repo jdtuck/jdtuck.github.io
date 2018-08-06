@@ -21,6 +21,8 @@ COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this
 
 **J. D. Tucker**, L. Shand, and J. R. Lewis, "Bayesian Modeling of Self-Exciting Point Processes with Missing Temporal Histories," *Bayesian Analysis*, in revision, 2018.
 
+T. Harris, B. Li, N. Steiger, J. Smerdon, and **J. D. Tucker**. "Evaluating proxy influ- ence in data assimilation based climate field reconstructions." *Proc JSM*, August 2018
+
 M. K. Ahn, **J. D. Tucker**, W. Wu, and A. Srivastava. "Elastic handling of predictor phase in functional regression models." *International Workshop on DIFF-CVML: Differential Geometry in Computer Vision and Machine Learning, IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshop*, June 2018.
 
 ## 2017
