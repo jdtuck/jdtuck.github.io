@@ -1,9 +1,9 @@
 ---
+pagetitle: "J. Derek Tucker - Papers"
 output:
   html_document:
     toc: true
     toc_float: true
-pagetitle: "J. Derek Tucker - Papers"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
