@@ -100,6 +100,10 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 **J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Coherent-based method for detection of underwater objects from sonar imagery," *Proc. SPIE*, vol. 6553, pp. 65530U– 1–65520U–8, April 2007. [PDF](Papers/spie07.pdf)
 
 ## Invited Talks
+"Elastic Functional Data Analysis", *Australian National University Statistics Colloqium*, July 12, 2018
+
+"Elastic Functional Data Analysis", *University of New Mexico Statistics Colloqium*, February 2, 2018
+
 "Doppler Multi-INT Detection and Tracking", *NSWC-PCD Invited Lecture*, October 1, 2015 
 
 "Alignment and Analysis of Proteomics Data using Square Root Slope Function Framework'', *CTW: Statistics of Time Warpings and Phase Variations 2012*, OSU MBI, Nov 7, 2012 [PDF](Presentations/MBI2012_Tucker.pdf)
@@ -107,4 +111,4 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 "Statistical Analysis and Modeling of Elastic Functions'', *Department of Mathematical and Statistical Sciences, University of Alberta*, Aug 23, 2011. (Organizer: Yau Shu Wong) [PDF](Presentations/UA-Function_Warping.pdf)
 
 ## Patents
-"Automated Change Detection Technique for Synthetic Aperture Sonar" Filed
+"Automated Change Detection Technique for Synthetic Aperture Sonar" Accepted
