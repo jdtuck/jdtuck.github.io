@@ -21,7 +21,7 @@ Y. Guan, C. Sampson, **J. D. Tucker**, W. Chang, A. Mondal, M. Haran, and D. Sul
 
 **J. D. Tucker**, L. Shand, and J. R. Lewis, "Handling Missing Data in Self-Exciting Point Process Models," *Spatial Statistics*, in press, 2018. [PDF](Papers/SPATSTAT18_STPP.pdf)
 
-**J. D. Tucker**, J. R. Lewis, and A. Srivastava, "Elastic Functional Principal Component Regression," *Statistical Analysis and Data Mining*, in press, 2018. [PDF](Papers/SADM18_elastic_regression.pdf)
+**J. D. Tucker**, J. R. Lewis, and A. Srivastava, "Elastic Functional Principal Component Regression," *Statistical Analysis and Data Mining*, 10.1002/sam.11399, 2018. [PDF](Papers/SADM18_elastic_regression.pdf)
 
 T. Harris, B. Li, N. Steiger, J. Smerdon, and **J. D. Tucker**. "Evaluating Proxy Influence in Data Assimilation," *Proc Climate Informatics*, September 2018
 
