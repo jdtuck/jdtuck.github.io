@@ -13,5 +13,5 @@ This pacakge performs alignment, PCA, and modeling of multidimensional and unidi
 
 There are also version of this code for [MATLAB](https://github.com/jdtuck/fdasrvf_MATLAB), [Python](https://github.com/jdtuck/fdasrsf_python), and [Julia](https://github.com/jdtuck/ElasticFDA.jl)
 
-Documentation for the Python (Documentation: [HTML](fdasrsf/html/index.html) or [PDF](fdasrsf/fdasrsf.pdf))
+Documentation for the Python (Documentation: [HTML](https://fdasrsf-python.readthedocs.io/en/latest/?badge=latest))
 Documentation for the Julia (Documentation: [HTML](http://elasticfdajl.readthedocs.org/en/latest/))

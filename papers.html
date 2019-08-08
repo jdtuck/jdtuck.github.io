@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -250,48 +251,9 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
-
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <style type="text/css">
 
@@ -340,8 +302,6 @@ div.tocify {
 
 .tocify-subheader .tocify-item {
   font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
 }
 
 .tocify .list-group-item {
@@ -455,8 +415,8 @@ div.tocify {
 <div id="section-3" class="section level2">
 <h2>2016</h2>
 <p>D. Bryner, F. Huffer, M. M. Rosenthal, <strong>J. D. Tucker</strong>, and A. Srivastava, “Linear Minelayer Trajectory Estimation Using Cluttered Point Cloud Data,” <em>Computational Statistics and Data Analysis</em>, vol. 102, pp. 1-22, October 2016 <a href="Papers/darshan_csda_2016.pdf">PDF</a></p>
-<p>J. Ramirez, M. Orini, <strong>J. D. Tucker</strong>, P. Laguna, and E. Pueyo, &quot;An Index for T‐wave Pointwise Amplitude Variability Quantification,’’ <em>Proc CinC (Mortara Winner)</em>, September 2016. <a href="Papers/CINC16.pdf">PDF</a></p>
-<p><strong>J. D. Tucker</strong>, &quot;Functional Statistical Process Control using Elastic Methods,’’ <em>Proc JSM</em>, August 2016. <a href="Papers/JSM16.pdf">PDF</a></p>
+<p>J. Ramirez, M. Orini, <strong>J. D. Tucker</strong>, P. Laguna, and E. Pueyo, "An Index for T‐wave Pointwise Amplitude Variability Quantification,’’ <em>Proc CinC (Mortara Winner)</em>, September 2016. <a href="Papers/CINC16.pdf">PDF</a></p>
+<p><strong>J. D. Tucker</strong>, "Functional Statistical Process Control using Elastic Methods,’’ <em>Proc JSM</em>, August 2016. <a href="Papers/JSM16.pdf">PDF</a></p>
 <p>D. Bryner, F. Huffer, A. Srivastava, and <strong>J. D. Tucker</strong>, “Underwater Mine Detection In Clutter Data Using Spatial Point Process Models,” <em>IEEE Journal of Oceanic Engineering</em>, vol 41, no. 3. pp 670-681, 2016 <a href="Papers/JOE-07398189.pdf">PDF</a></p>
 <p>T. G-Michael, B. Marchand, <strong>J. D. Tucker</strong>, D. D. Sternlicht, T. M. Marston, and M. R. Azimi-Sadjadi, “Image-based Automated Change Detection for Synthetic Aperture Sonar,” <em>IEEE Journal of Oceanic Engineering</em>, vol 41, no. 3. pp 592-612, 2016. <a href="Papers/JOE-07323881.pdf">PDF</a></p>
 <p>T. G-Michael, <strong>J. D. Tucker</strong>, and R. R. Roberts, “Statistically Normalized Coherent Change Detection for Synthetic Aperture Sonar Imagery,” <em>Proc SPIE</em>, April 2016. <a href="Papers/SPIE16.pdf">PDF</a></p>
@@ -477,9 +437,9 @@ div.tocify {
 </div>
 <div id="section-7" class="section level2">
 <h2>2011</h2>
-<p><strong>J. D. Tucker</strong> and N. Klausner, &quot;Compressive Sensing for Gauss-Gauss Detection,’’ <em>Proc. of IEEE SMC 2011 Conference</em>, pp. 3335-3340, Oct. 2011. <a href="Papers/SMC11.pdf">PDF</a></p>
+<p><strong>J. D. Tucker</strong> and N. Klausner, "Compressive Sensing for Gauss-Gauss Detection,’’ <em>Proc. of IEEE SMC 2011 Conference</em>, pp. 3335-3340, Oct. 2011. <a href="Papers/SMC11.pdf">PDF</a></p>
 <p>J. C. Isaacs and <strong>J. D. Tucker</strong>, “Diffusion features for target specific recognition with synthetic aperture sonar raw signals and acoustic color,” <em>Computer Vision and Pattern Recognition Workshops (CVPRW), 2011 IEEE Computer Society Conference on</em>, pp.27-32, 20-25 June 2011. <a href="Papers/CVPR11.pdf">PDF</a></p>
-<p><strong>J. D. Tucker</strong> and A. Srivastava,&quot;Statistical analysis and classification of acoustic color functions,’’ <em>Proc SPIE</em>, vol. 8017, pp. O1-O10, April 2011. <a href="Papers/SPIE11.pdf">PDF</a></p>
+<p><strong>J. D. Tucker</strong> and A. Srivastava,"Statistical analysis and classification of acoustic color functions,’’ <em>Proc SPIE</em>, vol. 8017, pp. O1-O10, April 2011. <a href="Papers/SPIE11.pdf">PDF</a></p>
 <p><strong>J. D. Tucker</strong> and M. R. Azimi-Sadjadi, “Coherence-based underwater target detection from multiple sonar platforms,” <em>IEEE Journal of Oceanic Engineering</em>, vol. 36, no. 1, pp. 37-51, Jan. 2011. <a href="Papers/JOE11.pdf">PDF</a></p>
 <p>J. C. Isaacs and <strong>J. D. Tucker</strong>, “Signal diffusion features for automatic target recognition in synthetic aperture sonar,” <em>Proc of IEEE DSP/SPE 2011 Workshop</em>, pp.461-465, Jan. 2011. <a href="Papers/DSPE11-2.pdf">PDF</a></p>
 <p><strong>J. D. Tucker</strong>, J. T. Cobb, and M. R. Azimi-Sadjadi, “Generalized likelihood ratio test for finite mixture model of K-distributed random variables” <em>Proc of IEEE DSP/SPE 2011 Workshop</em>, pp. 443-448, Jan. 2011. <a href="Papers/DSPE11.pdf">PDF</a></p>
@@ -492,9 +452,9 @@ div.tocify {
 </div>
 <div id="section-9" class="section level2">
 <h2>2009</h2>
-<p>M. Kabatek, M. R. Azimi-Sadjadi, and <strong>J. D. Tucker</strong>, &quot;An underwater target detection system for electro-optical imagery data,’’ <em>Proc. of MTS/IEEE Oceans 2009 Conference</em>, pp. 1–8, October 2009. <a href="Papers/Oceans09-EO.pdf">PDF</a></p>
-<p>N. Klausner, <strong>J. D. Tucker</strong>, and M. R. Azimi-Sadjadi, &quot;Multi-platform target detection using multi-channel coherence analysis and robustness to the effects of disparity,’’ <em>Proc. of MTS/IEEE Oceans 2009 Conference</em>, pp. 1–7, October 2009. <a href="Papers/Oceans09.pdf">PDF</a></p>
-<p>N. Klausner, M. R. Azimi-Sadjadi, and <strong>J. D. Tucker</strong>, &quot;Underwater target detection from multi-platform sonar imagery using multi-channel coherence analysis,’’ <em>Proc. of IEEE SMC 2009 Conference</em>, pp. 2728–2733, 2009. <a href="Papers/SMC09.pdf">PDF</a></p>
+<p>M. Kabatek, M. R. Azimi-Sadjadi, and <strong>J. D. Tucker</strong>, "An underwater target detection system for electro-optical imagery data,’’ <em>Proc. of MTS/IEEE Oceans 2009 Conference</em>, pp. 1–8, October 2009. <a href="Papers/Oceans09-EO.pdf">PDF</a></p>
+<p>N. Klausner, <strong>J. D. Tucker</strong>, and M. R. Azimi-Sadjadi, "Multi-platform target detection using multi-channel coherence analysis and robustness to the effects of disparity,’’ <em>Proc. of MTS/IEEE Oceans 2009 Conference</em>, pp. 1–7, October 2009. <a href="Papers/Oceans09.pdf">PDF</a></p>
+<p>N. Klausner, M. R. Azimi-Sadjadi, and <strong>J. D. Tucker</strong>, "Underwater target detection from multi-platform sonar imagery using multi-channel coherence analysis,’’ <em>Proc. of IEEE SMC 2009 Conference</em>, pp. 2728–2733, 2009. <a href="Papers/SMC09.pdf">PDF</a></p>
 </div>
 <div id="section-10" class="section level2">
 <h2>2008</h2>
@@ -512,8 +472,8 @@ div.tocify {
 <p>“Elastic Functional Data Analysis”, <em>Australian National University Statistics Colloqium</em>, July 12, 2018</p>
 <p>“Elastic Functional Data Analysis”, <em>University of New Mexico Statistics Colloqium</em>, February 2, 2018</p>
 <p>“Doppler Multi-INT Detection and Tracking”, <em>NSWC-PCD Invited Lecture</em>, October 1, 2015</p>
-<p>&quot;Alignment and Analysis of Proteomics Data using Square Root Slope Function Framework’’, <em>CTW: Statistics of Time Warpings and Phase Variations 2012</em>, OSU MBI, Nov 7, 2012 <a href="Presentations/MBI2012_Tucker.pdf">PDF</a></p>
-<p>&quot;Statistical Analysis and Modeling of Elastic Functions’’, <em>Department of Mathematical and Statistical Sciences, University of Alberta</em>, Aug 23, 2011. (Organizer: Yau Shu Wong) <a href="Presentations/UA-Function_Warping.pdf">PDF</a></p>
+<p>"Alignment and Analysis of Proteomics Data using Square Root Slope Function Framework’’, <em>CTW: Statistics of Time Warpings and Phase Variations 2012</em>, OSU MBI, Nov 7, 2012 <a href="Presentations/MBI2012_Tucker.pdf">PDF</a></p>
+<p>"Statistical Analysis and Modeling of Elastic Functions’’, <em>Department of Mathematical and Statistical Sciences, University of Alberta</em>, Aug 23, 2011. (Organizer: Yau Shu Wong) <a href="Presentations/UA-Function_Warping.pdf">PDF</a></p>
 </div>
 <div id="patents" class="section level2">
 <h2>Patents</h2>
@@ -542,6 +502,49 @@ $(document).ready(function () {
 });
 
 
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
 </script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
