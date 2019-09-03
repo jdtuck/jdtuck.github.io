@@ -15,7 +15,7 @@ output:
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2019
-T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**. "Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy in uence in assimilated paleoclimate reconstructions."  *Journal of the American Statistical Association*, submitted, 2019.
+T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**. "Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy in uence in assimilated paleoclimate reconstructions."  *Journal of the American Statistical Association*, submitted, 2019. [arxiv preprint]()
 
 M. K. Ahn, **J. D. Tucker**, W. Wu, and A. Srivastava. "Regression Models Using Shapes of Functions as Predictors." *Computational Statistics and Data Analysis*, submitted, 2019. [arxiv preprint]()
 
