@@ -15,9 +15,11 @@ output:
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2019
-M. K. Ahn, **J. D. Tucker**, W. Wu, and A. Srivastava. "Regression Models Using Shapes of Functions as Predictors." *Computational Statistics and Data Analysis*, submitted, 2019 [arxiv preprint]()
+T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**. "Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy in uence in assimilated paleoclimate reconstructions."  *Journal of the American Statistical Association*, submitted, 2019.
 
-T. Harris, **J. D. Tucker**, B. Li, and L. Shand, "Elastic depths for detecting shape anomalies in functional data," submitted, 2019 [arxiv preprint](https://arxiv.org/abs/1907.06759)
+M. K. Ahn, **J. D. Tucker**, W. Wu, and A. Srivastava. "Regression Models Using Shapes of Functions as Predictors." *Computational Statistics and Data Analysis*, submitted, 2019. [arxiv preprint]()
+
+T. Harris, **J. D. Tucker**, B. Li, and L. Shand, "Elastic depths for detecting shape anomalies in functional data," submitted, 2019. [arxiv preprint](https://arxiv.org/abs/1907.06759)
 
 **J. D. Tucker**, J. R. Lewis, C. King, and S. Kurtek, "A Geometric Approach for Computing Tolerance Bounds for Elastic Functional Data," *Journal of Applied Statistics*, 10.1080/02664763.2019.1645818, 2019. [arxiv preprint](https://arxiv.org/abs/1805.11401)
 
