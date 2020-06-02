@@ -28,9 +28,9 @@ M. K. Ahn, **J. D. Tucker**, W. Wu, and A. Srivastava. "Regression Models Using 
 S. Reza, N. Martin, T. Buchheit, and **J. D. Tucker**, "Tolerance Bound Calculation for Compact Model Calibration Using Functional Data Analysis," Proc ETDM20, 2020.
 
 ## 2019
-**J. D. Tucker**, J. R. Lewis, C. King, and S. Kurtek, "A Geometric Approach for Computing Tolerance Bounds for Elastic Functional Data," *Journal of Applied Statistics*, 10.1080/02664763.2019.1645818, 2019. [arxiv preprint](https://arxiv.org/abs/1805.11401)
+**J. D. Tucker**, J. R. Lewis, C. King, and S. Kurtek, "A Geometric Approach for Computing Tolerance Bounds for Elastic Functional Data," *Journal of Applied Statistics*, vol. 47, no 3. pp. 481-505, 2019. [arxiv preprint](https://arxiv.org/abs/1805.11401)
 
-Y. Guan, C. Sampson, **J. D. Tucker**, W. Chang, A. Mondal, M. Haran, and D. Sulsky, "Computer model calibration based on image warping metrics: an application for sea ice deformation," *Journal of Agricultural, Biological and Environmental Statistics*, 10.1007/s13253-019-00353-7, 2019 [PDF](Papers/Guan2019_Article_ComputerModelCalibrationBasedO.pdf)
+Y. Guan, C. Sampson, **J. D. Tucker**, W. Chang, A. Mondal, M. Haran, and D. Sulsky, "Computer model calibration based on image warping metrics: an application for sea ice deformation," *Journal of Agricultural, Biological and Environmental Statistics*, vol 41, pp 444–463, 2019 [PDF](Papers/Guan2019_Article_ComputerModelCalibrationBasedO.pdf)
 
 ## 2018
 **J. D. Tucker**, L. Shand, and J. R. Lewis, "Handling Missing Data in Self-Exciting Point Process Models," *Spatial Statistics*, vol. 29. pp. 160-176, 2019. [PDF](Papers/SPATSTAT18_STPP.pdf)
