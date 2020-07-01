@@ -116,13 +116,13 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 **J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Coherent-based method for detection of underwater objects from sonar imagery," *Proc. SPIE*, vol. 6553, pp. 65530U– 1–65520U–8, April 2007. [PDF](Papers/spie07.pdf)
 
 ## Invited Talks
-"Elastic Functional Data Analysis", *Brigham Young University Statistics Colloqium*, December 4, 2019
+"Elastic Functional Data Analysis", *Brigham Young University Statistics Colloquium*, December 4, 2019
 
-"Sandia Applications of Functional Data Analysis", *University of Illinois Statistics Colloqium*, November 22, 2019
+"Sandia Applications of Functional Data Analysis", *University of Illinois Statistics Colloquium*, November 22, 2019
 
-"Elastic Functional Data Analysis", *Australian National University Statistics Colloqium*, July 12, 2018
+"Elastic Functional Data Analysis", *Australian National University Statistics Colloquium*, July 12, 2018
 
-"Elastic Functional Data Analysis", *University of New Mexico Statistics Colloqium*, February 2, 2018
+"Elastic Functional Data Analysis", *University of New Mexico Statistics Colloquium*, February 2, 2018
 
 "Doppler Multi-INT Detection and Tracking", *NSWC-PCD Invited Lecture*, October 1, 2015 
 
