@@ -29,6 +29,11 @@ Statistical Image Understanding, Signal Analysis, Target Classification, Detecti
 **Senior project:** Magnetic Spin Wave Detection and Localization		
 
 ### Experience	
+**Adjunct Faculty** (2020-Present)
+Univeristy of Illinois
+Department of Statistics
+Champaign, IL
+
 **Principal Member of Technical Staff** (2017-Present)				
 Sandia National Laboratories		
 Statistical Sciences		
