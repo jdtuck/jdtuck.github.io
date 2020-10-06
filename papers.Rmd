@@ -17,7 +17,9 @@ COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this
 ## 2020
 T. Harris, B. Li, and **J. D. Tucker**. "Scalable Multiple Changepoint Detection for Functional Data Sequences", submitted, 2020. [arxiv preprint](https://arxiv.org/abs/2008.01889) 
 
-**J. D. Tucker**, L. Shand, and K. Chowdhary. "A Robust Bayesian Approach to Function Registration in $\mathbb{R}^1$" *Computational Statistics and Data Analysis*, submitted, 2020. [arxiv preprint](https://arxiv.org/abs/2005.14372)
+**J. D. Tucker**, L. Shand, and K. Chowdhary. "A Robust Bayesian Approach to Function Registration in $\mathbb{R}^1$" *Computational Statistics and Data Analysis*, in revision, 2020. [arxiv preprint](https://arxiv.org/abs/2005.14372)
+
+L. Patel, L. Shand, **J. D. Tucker**, and G. Huerta, "Assessing Extreme Value Analysis to predict rare events from the Global Terrorism Database,'' *Proc JSM*, August 2020 [PDF](Papers/JSM20.pdf)
 
 T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**. "Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy influence in assimilated paleoclimate reconstructions"  *Journal of the American Statistical Association*, 10.1080/01621459.2020.1799810, 2020. [PDF](Papers/JASA20_proxy.pdf)
 
