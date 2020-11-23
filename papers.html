@@ -13,7 +13,7 @@
 
 <title>J. Derek Tucker - Papers</title>
 
-<script src="site_libs/header-attrs-2.4/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -26,6 +26,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
@@ -36,7 +38,7 @@
   div.column{display: inline-block; vertical-align: top; width: 50%;}
   div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   ul.task-list{list-style: none;}
-      </style>
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -411,8 +413,9 @@ div.tocify {
 <p>COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.</p>
 <div id="section" class="section level2">
 <h2>2020</h2>
+<p>A. H. Foss, R. B. Lehoucq, W. Z. Stuart, <strong>J. D. Tucker</strong>, and J. W. Berry, “A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph”, <em>Journal of Applied Statistics</em>, submitted, 2020. <a href="http://arxiv.org/abs/2011.09544">arxiv preprint</a></p>
 <p>T. Harris, B. Li, and <strong>J. D. Tucker</strong>. “Scalable Multiple Changepoint Detection for Functional Data Sequences”, submitted, 2020. <a href="https://arxiv.org/abs/2008.01889">arxiv preprint</a></p>
-<p><strong>J. D. Tucker</strong>, L. Shand, and K. Chowdhary. “A Robust Bayesian Approach to Function Registration in <span class="math inline">\(\mathbb{R}^1\)</span>” <em>Computational Statistics and Data Analysis</em>, in revision, 2020. <a href="https://arxiv.org/abs/2005.14372">arxiv preprint</a></p>
+<p><strong>J. D. Tucker</strong>, L. Shand, and K. Chowdhary. “A Robust Bayesian Approach to Function Registration in <span class="math inline">\(\mathbb{R}^1\)</span>”, <em>Computational Statistics and Data Analysis</em>, in revision, 2020. <a href="https://arxiv.org/abs/2005.14372">arxiv preprint</a></p>
 <p>L. Patel, L. Shand, <strong>J. D. Tucker</strong>, and G. Huerta, "Assessing Extreme Value Analysis to predict rare events from the Global Terrorism Database,’’ <em>Proc JSM</em>, August 2020 <a href="Papers/JSM20.pdf">PDF</a></p>
 <p>T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and <strong>J. D. Tucker</strong>. “Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy influence in assimilated paleoclimate reconstructions” <em>Journal of the American Statistical Association</em>, 10.1080/01621459.2020.1799810, 2020. [<a href="Papers/JASA20_proxy.pdf">PDF</a> | <a href="Code/JASA20_proxy_supp.zip">R</a>]</p>
 <p>C. King, N. Martin, and <strong>J. D. Tucker</strong>. “Bounding Uncertainty in Functional Data: A Case Study in Reliability” <em>Quality Engineering</em>, accepted, 2020. <a href="Papers/King_QE_20.pdf">PDF</a></p>
@@ -522,7 +525,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

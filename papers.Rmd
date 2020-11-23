@@ -15,9 +15,12 @@ output:
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2020
+A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph", *Journal of Applied Statistics*, submitted, 2020. [arxiv preprint](http://arxiv.org/abs/2011.09544)
+
+
 T. Harris, B. Li, and **J. D. Tucker**. "Scalable Multiple Changepoint Detection for Functional Data Sequences", submitted, 2020. [arxiv preprint](https://arxiv.org/abs/2008.01889) 
 
-**J. D. Tucker**, L. Shand, and K. Chowdhary. "A Robust Bayesian Approach to Function Registration in $\mathbb{R}^1$" *Computational Statistics and Data Analysis*, in revision, 2020. [arxiv preprint](https://arxiv.org/abs/2005.14372)
+**J. D. Tucker**, L. Shand, and K. Chowdhary. "A Robust Bayesian Approach to Function Registration in $\mathbb{R}^1$", *Computational Statistics and Data Analysis*, in revision, 2020. [arxiv preprint](https://arxiv.org/abs/2005.14372)
 
 L. Patel, L. Shand, **J. D. Tucker**, and G. Huerta, "Assessing Extreme Value Analysis to predict rare events from the Global Terrorism Database,'' *Proc JSM*, August 2020 [PDF](Papers/JSM20.pdf)
 
