@@ -21,7 +21,7 @@ A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A D
 
 T. Harris, B. Li, and **J. D. Tucker**. "Scalable Multiple Changepoint Detection for Functional Data Sequences", submitted, 2020. [arxiv preprint](https://arxiv.org/abs/2008.01889) 
 
-**J. D. Tucker**, L. Shand, and K. Chowdhary. "Multimodal Bayesian Registration of Noisy Functions using Hamiltonian Monte Carlo", *Computational Statistics and Data Analysis*, submitted, 2021. [arxiv preprint](https://arxiv.org/abs/2005.14372)
+**J. D. Tucker**, L. Shand, and K. Chowdhary. "Multimodal Bayesian Registration of Noisy Functions using Hamiltonian Monte Carlo", *Computational Statistics and Data Analysis*, accepted, 2021. [arxiv preprint](https://arxiv.org/abs/2005.14372)
 
 ## 2020
 L. Patel, L. Shand, **J. D. Tucker**, and G. Huerta, "Assessing Extreme Value Analysis to predict rare events from the Global Terrorism Database,'' *Proc JSM*, August 2020 [PDF](Papers/JSM20.pdf)
