@@ -21,6 +21,8 @@ A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A D
 
 T. Harris, B. Li, and **J. D. Tucker**. "Scalable Multiple Changepoint Detection for Functional Data Sequences", in revision, 2020. [arxiv preprint](https://arxiv.org/abs/2008.01889) 
 
+C. Ting, N. Johson, U. Onunkwo, and **J. D. Tucker**. "Faster classification using compression analytics", *IEEE ICDM Workshop on Data Mining and Machine Learning for Cybersecurity*, 2021.
+
 **J. D. Tucker**, L. Shand, and K. Chowdhary. "Multimodal Bayesian Registration of Noisy Functions using Hamiltonian Monte Carlo", *Computational Statistics and Data Analysis*, 10.1016/j.csda.2021.107298, 2021. [PDF](Papers/CSDA_Bayesian_21.pdf)
 
 ## 2020
