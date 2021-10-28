@@ -22,7 +22,7 @@ X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clus
 
 A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph", *Journal of Applied Statistics*, submitted, 2021. [arxiv preprint](http://arxiv.org/abs/2011.09544)
 
-T. Harris, B. Li, and **J. D. Tucker**. "Scalable Multiple Changepoint Detection for Functional Data Sequences", in revision, 2020. [arxiv preprint](https://arxiv.org/abs/2008.01889) 
+T. Harris, B. Li, and **J. D. Tucker**. "Scalable Multiple Changepoint Detection for Functional Data Sequences", *Environmetrics*, accepted, 2021. [arxiv preprint](https://arxiv.org/abs/2008.01889) 
 
 C. Ting, N. Johson, U. Onunkwo, and **J. D. Tucker**. "Faster classification using compression analytics", *IEEE ICDM Workshop on Data Mining and Machine Learning for Cybersecurity*, 2021. [PDF](Papers/IEEEDML_CYber21.pdf)]
 
