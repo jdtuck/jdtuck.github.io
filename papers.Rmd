@@ -24,9 +24,9 @@ X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clus
 
 A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph", *Journal of Applied Statistics*, submitted, 2021. [arxiv preprint](http://arxiv.org/abs/2011.09544)
 
-T. Harris, B. Li, and **J. D. Tucker**. "Scalable Multiple Changepoint Detection for Functional Data Sequences", *Environmetrics*, accepted, 2021. [arxiv preprint](https://arxiv.org/abs/2008.01889) 
+T. Harris, B. Li, and **J. D. Tucker**. "Scalable Multiple Changepoint Detection for Functional Data Sequences", *Environmetrics*, 10.1002/env.2710, 2021. [PDF](Papers/Harris_Environmetrics_21.pdf) 
 
-C. Ting, N. Johson, U. Onunkwo, and **J. D. Tucker**. "Faster classification using compression analytics", *IEEE ICDM Workshop on Data Mining and Machine Learning for Cybersecurity*, 2021. [PDF](Papers/IEEEDML_CYber21.pdf)]
+C. Ting, N. Johson, U. Onunkwo, and **J. D. Tucker**. "Faster classification using compression analytics", *IEEE ICDM Workshop on Data Mining and Machine Learning for Cybersecurity*, 2021. [PDF](Papers/IEEEDML_CYber21.pdf)
 
 **J. D. Tucker**, L. Shand, and K. Chowdhary. "Multimodal Bayesian Registration of Noisy Functions using Hamiltonian Monte Carlo", *Computational Statistics and Data Analysis*, 10.1016/j.csda.2021.107298, 2021. [PDF](Papers/CSDA_Bayesian_21.pdf)
 
