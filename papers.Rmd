@@ -15,7 +15,7 @@ output:
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2022
-D. Ries, A. Zhang, **J. D. Tucker**, K. SHuler, and  M. Ausdemore, "A framework for inverse prediction using functional response data", *JCISE*, submitted, 2021.
+D. Ries, A. Zhang, **J. D. Tucker**, K. Shuler, and  M. Ausdemore, "A framework for inverse prediction using functional response data", *JCISE*, submitted, 2021.
 
 L. Patel, L. Shand, **J. D. Tucker**, and  G. Huerta, "Spatio-temporal extreme event modeling of terror insurgencies", *PNAS*, submitted, 2021. [arxiv preprint](https://arxiv.org/abs/2110.08363)
 
