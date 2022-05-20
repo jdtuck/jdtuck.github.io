@@ -15,13 +15,13 @@ output:
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2022
-D. Ries, A. Zhang, **J. D. Tucker**, K. Shuler, and  M. Ausdemore, "A framework for inverse prediction using functional response data", *JCISE*, accepted, 2022 [PDF](Papers/jcise_paper.pdf)
-
 L. Patel, L. Shand, **J. D. Tucker**, and  G. Huerta, "Spatio-temporal extreme event modeling of terror insurgencies", *Statistical Science*, submitted, 2022 [arxiv preprint](https://arxiv.org/abs/2110.08363)
 
 X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clustering of functional data for posterior exploration, with an application to inference on acute respiratory infection dynamics", *Computational Statistics and Data Analysis*, in revision, 2021. [arxiv preprint](http://arxiv.org/abs/2011.12397)
 
 A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph", *Journal of Applied Statistics*, in revision, 2021. [arxiv preprint](http://arxiv.org/abs/2011.09544)
+
+D. Ries, A. Zhang, **J. D. Tucker**, K. Shuler, and  M. Ausdemore, "A framework for inverse prediction using functional response data", *JCISE*, 10.1115/1.4053752, 2022 [PDF](Papers/JCISE-21-1393.pdf)
 
 ## 2021
 T. Harris, B. Li, and **J. D. Tucker**. "Scalable Multiple Changepoint Detection for Functional Data Sequences", *Environmetrics*, 10.1002/env.2710, 2021. [PDF](Papers/Harris_Environmetrics_21.pdf) 
