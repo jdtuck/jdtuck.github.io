@@ -4,7 +4,7 @@ title: "J. Derek Tucker"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-### Principal Member of Technical Staff, Sandia National Laboratories
+### Distinguished Member of Technical Staff, Sandia National Laboratories
 ### Adjunct Professor, Department of Statistics, University of Illinois
 
 <br><img src="images/me.jpg" alt="derek" style="border:5px solid"><br>
