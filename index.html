@@ -13,7 +13,7 @@
 
 <title>J. Derek Tucker</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -316,7 +320,7 @@ in electrical engineering, with an emphasis on statistical signal
 processing. My dissertation was advised by <a
 href="http://ani.stat.fsu.edu/~anuj/">Anuj Srivastava</a> and <a
 href="http://ani.stat.fsu.edu/~wwu/">Wei Wu</a> and focused modeling of
-unaligned functional data. Currently, I am a Principal Member of the
+unaligned functional data. Currently, I am a Distinguished Member of the
 Technical Staff at Sandia National Laboratories in Albuquerque, NM and
 an adjunct faculty member of the Department of Statistics at the
 University of Illinois. At Illinois I teach a topics course on
@@ -325,9 +329,9 @@ Intelligence Team Award for contributions to the Signal Location in
 Complex Environments (SLiCE) team.</p>
 <p>My main interest lies in the area of functional data analysis with a
 focus on geometric methods and unaligned data. I recently have
-emphasized on statistical analysis of data of this type. My other
-research interests include statistical image understanding, statistical
-learning methods, and point processes.</p>
+emphasized on statistical analysis and modeling of this type of data. My
+other research interests include statistical image understanding,
+statistical learning methods, and point processes.</p>
 <p><br></p>
 <div id="curriculum-vitae" class="section level4">
 <h4>Curriculum Vitae</h4>
