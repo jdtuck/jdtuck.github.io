@@ -13,7 +13,7 @@
 
 <title>J. Derek Tucker - Papers</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -184,8 +184,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -193,16 +193,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -386,9 +379,12 @@ servers or lists, or to reuse any copyrighted component of this work in
 other works must be obtained from the copyright holder.</p>
 <div id="section" class="section level2">
 <h2>2022</h2>
+<p>K. Rumsey, and J. G. Huerta, and <strong>J. D. Tucker</strong>, ““A
+Localized Ensemble of Approximate Gaussian Processes for Fast Sequential
+Emulation”, <em>Stat</em>, submitted, 2022.</p>
 <p><strong>J. D. Tucker</strong>, Matthew T. Martinez, and Jose M.
 Laborde, “Dimensionality Reduction using Elastic Measures”,
-<em>Statistics and Probability Letters</em>, submitted, 2022. <a
+<em>Statistics and Probability Letters</em>, in revision, 2022. <a
 href="https://arxiv.org/abs/2209.04933">arxiv preprint</a></p>
 <p>L. Patel, L. Shand, <strong>J. D. Tucker</strong>, and G. Huerta,
 “Spatio-temporal extreme event modeling of terror insurgencies”,
