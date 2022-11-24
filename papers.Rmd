@@ -15,7 +15,7 @@ output:
 COPYRIGHT NOTICE: The material listed here are copyrighted. Personal use of this material is permitted. However, permission to reprint/publish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the copyright holder.
 
 ## 2022
-**J. D. Tucker** and Drew Yarger, "Elastic Functional Changepoint Detection", *Envirometrics*, submitted, 2022. [arxiv preprint](https://arxiv.org/abs/2209.04933)
+**J. D. Tucker** and Drew Yarger, "Elastic Functional Changepoint Detection", *Envirometrics*, submitted, 2022. [arxiv preprint](https://arxiv.org/abs/2211.12687)
 
 J. Upston, D. Sulsky, **J. D. Tucker**, and Y. Guan, "CIEL\*Ch color map for visualization and analysis of sea ice motion", *Journal of Computational and Applied Mathematics *, submitted, 2022.
 
