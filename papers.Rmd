@@ -23,15 +23,13 @@ K. Rumsey, and J. G. Huerta, and **J. D. Tucker**, ""A Localized Ensemble of App
 
 **J. D. Tucker**, Matthew T. Martinez, and Jose M. Laborde, "Dimensionality Reduction using Elastic Measures", *Stat*, submitted, 2022. [arxiv preprint](https://arxiv.org/abs/2209.04933)
 
-L. Patel, L. Shand, **J. D. Tucker**, and  G. Huerta, "Spatio-temporal extreme event modeling of terror insurgencies", *Statistical Science*, submitted, 2022. [arxiv preprint](https://arxiv.org/abs/2110.08363)
-
-X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clustering of functional data for posterior exploration, with an application to inference on acute respiratory infection dynamics", *Computational Statistics and Data Analysis*, in revision, 2021. [arxiv preprint](http://arxiv.org/abs/2011.12397)
-
-A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph", *Journal of Applied Statistics*, in revision, 2021. [arxiv preprint](http://arxiv.org/abs/2011.09544)
+X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clustering of functional data for posterior exploration, with an application to inference on acute respiratory infection dynamics", *Computational Statistics and Data Analysis*, in revision, 2021. [arxiv](http://arxiv.org/abs/2011.12397)
 
 D. Ries, A. Zhang, **J. D. Tucker**, K. Shuler, and  M. Ausdemore, "A framework for inverse prediction using functional response data", *JCISE*, 10.1115/1.4053752, 2022 [PDF](Papers/JCISE-21-1393.pdf)
 
 ## 2021
+L. Patel, L. Shand, **J. D. Tucker**, and  G. Huerta, "Spatio-temporal extreme event modeling of terror insurgencies", *arXiv:2110.08363 [stat.AP]*, 2021 [arxiv](https://arxiv.org/abs/2110.08363)
+
 T. Harris, B. Li, and **J. D. Tucker**. "Scalable Multiple Changepoint Detection for Functional Data Sequences", *Environmetrics*, 10.1002/env.2710, 2021. [PDF](Papers/Harris_Environmetrics_21.pdf) 
 
 C. Ting, N. Johson, U. Onunkwo, and **J. D. Tucker**. "Faster classification using compression analytics", *IEEE ICDM Workshop on Data Mining and Machine Learning for Cybersecurity*, 2021. [PDF](Papers/IEEEDML_CYber21.pdf)
@@ -39,6 +37,8 @@ C. Ting, N. Johson, U. Onunkwo, and **J. D. Tucker**. "Faster classification usi
 **J. D. Tucker**, L. Shand, and K. Chowdhary. "Multimodal Bayesian Registration of Noisy Functions using Hamiltonian Monte Carlo", *Computational Statistics and Data Analysis*, 10.1016/j.csda.2021.107298, 2021. [PDF](Papers/CSDA_Bayesian_21.pdf)
 
 ## 2020
+A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph", *arXiv:2011.09544 [cs.SI]*, 2020. [arxiv](http://arxiv.org/abs/2011.09544)
+
 L. Patel, L. Shand, **J. D. Tucker**, and G. Huerta, "Assessing Extreme Value Analysis to predict rare events from the Global Terrorism Database,'' *Proc JSM*, August 2020 [PDF](Papers/JSM20.pdf)
 
 T. Harris, B. Li, N. J. Steiger, J. E. Smerdon, N. Narisetty, and **J. D. Tucker**. "Testing the exchangeability of two ensembles of spatial processes - Evaluating proxy influence in assimilated paleoclimate reconstructions"  *Journal of the American Statistical Association*, 10.1080/01621459.2020.1799810, 2020. [[PDF](Papers/JASA20_proxy.pdf)
