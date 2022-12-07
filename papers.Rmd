@@ -23,7 +23,7 @@ K. Rumsey, and J. G. Huerta, and **J. D. Tucker**, ""A Localized Ensemble of App
 
 **J. D. Tucker**, Matthew T. Martinez, and Jose M. Laborde, "Dimensionality Reduction using Elastic Measures", *Stat*, submitted, 2022. [arxiv preprint](https://arxiv.org/abs/2209.04933)
 
-X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clustering of functional data for posterior exploration, with an application to inference on acute respiratory infection dynamics", *Computational Statistics and Data Analysis*, in revision, 2021. [arxiv](http://arxiv.org/abs/2011.12397)
+Madeline A Ausdemore, Audrey McCombs, Daniel Ries, Adah Zhang, Kurtis Shuler, Katherine Goode, **J. Derek Tucker** and J. Gabriel Huerta, “A Probabilistic Inverse Prediction Method for Predicting Plutonium Processing Conditions”, *Frontiers in Nuclear Engineering-Nuclear Materials*. accepted 2022.[PDF](Papers/PuBASS_Frontiers_2022.pdf)
 
 D. Ries, A. Zhang, **J. D. Tucker**, K. Shuler, and  M. Ausdemore, "A framework for inverse prediction using functional response data", *JCISE*, 10.1115/1.4053752, 2022 [PDF](Papers/JCISE-21-1393.pdf)
 
@@ -37,6 +37,8 @@ C. Ting, N. Johson, U. Onunkwo, and **J. D. Tucker**. "Faster classification usi
 **J. D. Tucker**, L. Shand, and K. Chowdhary. "Multimodal Bayesian Registration of Noisy Functions using Hamiltonian Monte Carlo", *Computational Statistics and Data Analysis*, 10.1016/j.csda.2021.107298, 2021. [PDF](Papers/CSDA_Bayesian_21.pdf)
 
 ## 2020
+X. Zhang, S. Kurtek, O. Chkrebtii, and **J. D. Tucker**, "Elastic $k$-means clustering of functional data for posterior exploration, with an application to inference on acute respiratory infection dynamics", *arXiv:2011.12397 [stat.ME]*, 2020 [arxiv](http://arxiv.org/abs/2011.12397)
+
 A. H. Foss, R. B. Lehoucq, W. Z. Stuart, **J. D. Tucker**, and J. W. Berry, "A Deterministic Hitting-Time Moment Approach to Seed-set Expansion over a Graph", *arXiv:2011.09544 [cs.SI]*, 2020. [arxiv](http://arxiv.org/abs/2011.09544)
 
 L. Patel, L. Shand, **J. D. Tucker**, and G. Huerta, "Assessing Extreme Value Analysis to predict rare events from the Global Terrorism Database,'' *Proc JSM*, August 2020 [PDF](Papers/JSM20.pdf)
