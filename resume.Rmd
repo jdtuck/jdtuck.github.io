@@ -30,11 +30,16 @@ Statistical Image Understanding, Signal Analysis, Target Classification, Detecti
 
 ### Experience	
 **Adjunct Faculty** (2020-Present)
-Univeristy of Illinois
+University of Illinois
 Department of Statistics
 Champaign, IL
 
-**Principal Member of Technical Staff** (2017-Present)				
+**Distinguished Member of Technical Staff** (2022-Present)				
+Sandia National Laboratories		
+Statistical Sciences		
+Albuquerque, NM		
+
+**Principal Member of Technical Staff** (2017-2022)				
 Sandia National Laboratories		
 Statistical Sciences		
 Albuquerque, NM		
@@ -62,4 +67,4 @@ Digital Signal and Image Laboratory
 Colorado State University, Fort Collins, CO		
 
 ### Affiliations	
-IEEE (Senior Member), ASA
+IEEE (Senior Member), ASA, SIAM
