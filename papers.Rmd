@@ -8,6 +8,10 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
+---
+title: "Papers"
+---
+
 <br>
 <font size="5">[Google Scholar Page](https://scholar.google.com/citations?user=1jdvTZwAAAAJ&hl=en)</font> 
 <br>
@@ -144,6 +148,8 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 **J. D. Tucker**, M. R. Azimi-Sadjadi, and G. J. Dobeck, "Coherent-based method for detection of underwater objects from sonar imagery," *Proc. SPIE*, vol. 6553, pp. 65530U– 1–65520U–8, April 2007. [PDF](Papers/spie07.pdf)
 
 ## Invited Talks
+"Elastic Functional Data Analysis", *SMU Statistical Colloquium*, November 4, 2022
+
 "Elastic Functional Tolerance Bounds", *LANL Statistical Colloquium*, December 16, 2020
 
 "Elastic Functional Data Analysis", *Brigham Young University Statistics Colloquium*, December 4, 2019
@@ -164,3 +170,4 @@ N. Klausner, M. R. Azimi-Sadjadi, and **J. D. Tucker**, "Underwater target detec
 "Method and system for training an artifical neural network utilizing physics based knowledge" US Patent No. Applied
 
 "Automated Change Detection Technique for Synthetic Aperture Sonar" US Patent No. US10049295B2 [PDF](Papers/US10049295.pdf)
+
